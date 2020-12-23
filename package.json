@@ -1,0 +1,24 @@
+{
+  "name": "kc-rgb2hex",
+  "version": "1.0.2",
+  "description": "[js] Convert rgb to hex.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KaisarCode/js-rgb2hex.git"
+  },
+  "keywords": [
+    "convert",
+    "rgb",
+    "hex"
+  ],
+  "author": "KaisarCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaisarCode/js-rgb2hex/issues"
+  },
+  "homepage": "https://github.com/KaisarCode/js-rgb2hex",
+  "dependencies": {
+    "fun2mod": "^1.0.5"
+  }
+}
