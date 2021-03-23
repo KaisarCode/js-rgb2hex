@@ -1,6 +1,6 @@
 {
   "name": "kc-rgb2hex",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[js] Convert rgb to hex.",
   "main": "index.js",
   "repository": {
